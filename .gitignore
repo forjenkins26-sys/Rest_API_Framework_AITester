@@ -1,0 +1,18 @@
+# Nested project with its own git repo + remote — tracked separately
+SeleniumRepo/
+
+# Local Claude Code state / session artifacts
+.claude/settings.local.json
+.playwright-mcp/
+
+# Build artifacts
+*.class
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+
+# One-off generated session-recap HTML
+919a6e828f599e85.html
